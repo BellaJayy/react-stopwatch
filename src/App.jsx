@@ -2,7 +2,7 @@
 // Code for the timer component
 import React from 'react';
 import Clock from './Clock';
-import Button from './Button';  
+import Button from './button';  
 import './App.css';
 
 function App() {
